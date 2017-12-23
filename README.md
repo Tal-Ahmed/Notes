@@ -1,5 +1,6 @@
 University of Waterloo CS Notes.
 
 Courses:
-* CS 241E: Foundations of Sequential Programs (Enriched)
-* STAT 230: Probability
+* CS246: Object-Oriented Software Development
+* CS241e: Foundations of Sequential Programs (Enriched)
+* STAT230: Probability
